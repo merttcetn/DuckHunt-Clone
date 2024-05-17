@@ -1,5 +1,5 @@
 
-# DuckHunt Clone
+# DuckHunt Clone 🦆
 
 Welcome to my DuckHunt Clone! This project is a modern recreation of the classic DuckHunt game, developed as a school assignment. It showcases my skills in game development, including animation, collision detection, and user interaction.
 
